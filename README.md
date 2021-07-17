@@ -17,7 +17,7 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from VIT 
 
 <h2> 🛠 &nbsp;My Tech Stack</h2>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="images/javascript.png" alt="javascript" width="30" height="30"/> </a>   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="images/typescript.png" alt="typescript" width="30" height="30"/> </a> <a href="https://www.php.net" target="_blank"> <img src="images/php.png" alt="php" width="30" height="30"/> </a>  <a href="https://getbootstrap.com" target="_blank"> <img src="images/bootstrap.png" alt="bootstrap" width="30" height="30"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="images/css.png" alt="css3" width="30" height="30"/> </a><a href="https://www.w3.org/html/" target="_blank"> <img src="images/html.png" alt="html5" width="30" height="30"/> </a>  <a href="https://nodejs.org" target="_blank"> <img src="images/nodejs.png" alt="nodejs" width="50" height="50"/> </a>    <a href="https://www.mysql.com/" target="_blank"> <img src="images/mysql.png" alt="mysql" width="40" height="40"/></a>  <a href="https://heroku.com" target="_blank"> <img src="images/heroku.png" alt="heroku" width="30" height="30"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="images/git.png" alt="git" width="30" height="30"/> </a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="images/javascript.png" alt="javascript" width="30" height="30"/> </a>   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="images/typescript.png" alt="typescript" width="30" height="30"/> </a> <a href="https://www.php.net" target="_blank"> <img src="images/php.png" alt="php" width="30" height="30"/> </a>  <a href="https://getbootstrap.com" target="_blank"> <img src="images/bootstrap.png" alt="bootstrap" width="30" height="30"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="images/css.png" alt="css3" width="30" height="30"/> </a><a href="https://www.w3.org/html/" target="_blank"> <img src="images/html.png" alt="html5" width="30" height="30"/> </a>  <a href="https://nodejs.org" target="_blank"> <img src="images/nodejs.png" alt="nodejs" width="50" height="50"/> </a>    <a href="https://www.mysql.com/" target="_blank"> <img src="images/mysql.png" alt="mysql" width="40" height="40"/></a>  <a href="https://heroku.com" target="_blank"> <img src="images/heroku.png" alt="heroku" width="30" height="30"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="images/git.png" alt="git" width="30" height="30"/> </a>   
 
 <details>	
   <summary><b>Programming Languages</b></summary>
@@ -47,7 +47,7 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from VIT 
 
 <details>	
   <summary><b>Frameworks</b></summary>
-     <a href="https://expressjs.com/" target="_blank"> <img src="images/express.png" alt="expressjs" width="30" height="30"/> </a> <a href="https://wordpress.org/" target="_blank"> <img src="images/wordpress.png" alt="flask" width="30" height="30"/> </a><a href="https://www.djangoproject.com/" target="_blank"> <img src="images/django.png" alt="django" width="30" height="30"/> </a> 
+     <a href="https://expressjs.com/" target="_blank"> <img src="images/express.png" alt="expressjs" width="30" height="30"/> </a> <a href="https://wordpress.org/" target="_blank"> <img src="images/wordpress.png" alt="flask" width="30" height="30"/> </a><
 </details>
 
 <details>	
