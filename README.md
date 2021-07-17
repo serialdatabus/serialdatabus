@@ -5,13 +5,12 @@
 
 ### Glad to see you here! &nbsp; [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/elizeu-carlos-618941121/)](https://www.linkedin.com/in/elizeu-carlos-618941121/) [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:elizeucarlosc@gmail.com)](mailto:elizeucarlosc@gmail.com)
 
-I'm a final year student pursuing Bachelors's in Computer Science 🎓 from VIT University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development 🕸️ and Computer Vision 👀.
+I'm a Full Stack Web Developer livin in Lisbon experienced in building responsive , accesible websites and web applications.
 
 ### More about me:
 
 
 - 💻 &nbsp; I love exploring new tech stack and building cool stuffs
-- 👨💻 Currently working, learning and growing my skillset in deep learning, competitive coding, data structures and algorithms.
 - 🤝 Open for collaborations in web development 🕸️
 - 🌐 Visit my [porfolio website](https://manumanoj.me) for complete background and contact.
 - 📝 &nbsp; Checkout my [Resume](https://manumanoj.me/Resume.pdf).
