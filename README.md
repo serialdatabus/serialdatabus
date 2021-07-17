@@ -10,10 +10,10 @@ I'm a Full Stack Web Developer living in Lisbon, experienced in building respons
 ### More about me:
 
 
-- 💻 &nbsp;I love exploring new tech stack and building cool stuffs
+- 💻 &nbsp;I love exploring new tech stack and building cool stuffs.
 - 🤝 &nbsp;Open for collaborations in web development 🕸️
 - 📝 &nbsp;Checkout my [Resume](https://github.com/serialdatabus/serialdatabus/blob/main/resume/resume.pdf).
-- 💬 &nbsp;Ask me about anything tech related, I am happy to help;
+- 💬 &nbsp;Ask me about anything tech related, I am happy to help.
 <h2> 🛠 &nbsp;My Tech Stack</h2>
 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="images/javascript.png" alt="javascript" width="30" height="30"/> </a>   <a href="https://www.typescriptlang.org/" target="_blank"> <img src="images/typescript.png" alt="typescript" width="30" height="30"/> </a> <a href="https://www.php.net" target="_blank"> <img src="images/php.png" alt="php" width="30" height="30"/> </a>  <a href="https://getbootstrap.com" target="_blank"> <img src="images/bootstrap.png" alt="bootstrap" width="30" height="30"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="images/css.png" alt="css3" width="30" height="30"/> </a><a href="https://www.w3.org/html/" target="_blank"> <img src="images/html.png" alt="html5" width="30" height="30"/> </a>  <a href="https://nodejs.org" target="_blank"> <img src="images/nodejs.png" alt="nodejs" width="50" height="50"/> </a>    <a href="https://www.mysql.com/" target="_blank"> <img src="images/mysql.png" alt="mysql" width="40" height="40"/></a>  <a href="https://heroku.com" target="_blank"> <img src="images/heroku.png" alt="heroku" width="30" height="30"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="images/git.png" alt="git" width="30" height="30"/> </a>   
