@@ -47,17 +47,17 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from VIT 
 
 <details>	
   <summary><b>Frameworks</b></summary>
-     <a href="https://expressjs.com/" target="_blank"> <img src="images/express.png" alt="expressjs" width="30" height="30"/> </a> <a href="https://wordpress.org/" target="_blank"> <img src="images/wordpress.png" alt="flask" width="30" height="30"/> </a><
+     <a href="https://expressjs.com/" target="_blank"> <img src="images/express.png" alt="expressjs" width="30" height="30"/> </a> <a href="https://wordpress.org/" target="_blank"> <img src="images/wordpress.png" alt="flask" width="30" height="30"/> </a>
 </details>
 
 <details>	
   <summary><b>Backend as a Service (BaaS) </b></summary>
-   <a href="https://firebase.google.com/" target="_blank"> <img src="images/firebase.png" alt="firebase" width="30" height="30"/> </a> <a href="https://heroku.com" target="_blank"> <img src="images/heroku.png" alt="heroku" width="30" height="30"/> </a>
+    <a href="https://heroku.com" target="_blank"> <img src="images/heroku.png" alt="heroku" width="30" height="30"/> </a>
   </details>
 
 <details>	
   <summary><b>Others</b></summary>
-  <a href="https://git-scm.com/" target="_blank"> <img src="images/git.png" alt="git" width="30" height="30"/> </a>  <a href="https://www.linux.org/" target="_blank"> <img src="images/kali.png" alt="linux" width="30" height="30"/> </a> <a href="https://opencv.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="30" height="30"/> </a><a href="https://unity.com/" target="_blank"> <img src="images/unity.png" alt="unity" width="30" height="30"/> </a> 
+  <a href="https://git-scm.com/" target="_blank"> <img src="images/git.png" alt="git" width="30" height="30"/> </a>  
 </details>
 
 <h2>ℹ️ &nbsp;Github Info</h2>
@@ -77,110 +77,3 @@ I'm a final year student pursuing Bachelors's in Computer Science 🎓 from VIT 
  <summary><b>🏆 Github Achievements</b></summary>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manumanoj0010&margin-w=5" alt="manumanoj0010" /></a> </p>
 </details>
-
-<details>
- <summary><b>💥 Github Activity</b></summary>
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/Sahiti-Dev/Website/pull/5) in [Sahiti-Dev/Website](https://github.com/Sahiti-Dev/Website)
-2. 🎉 Merged PR [#4](https://github.com/Sahiti-Dev/Website/pull/4) in [Sahiti-Dev/Website](https://github.com/Sahiti-Dev/Website)
-3. 🎉 Merged PR [#2](https://github.com/Sahiti-Dev/Website/pull/2) in [Sahiti-Dev/Website](https://github.com/Sahiti-Dev/Website)
-4. ❌ Closed PR [#1](https://github.com/Sahiti-Dev/Website/pull/1) in [Sahiti-Dev/Website](https://github.com/Sahiti-Dev/Website)
-4. ❗️ Opened issue [#15](https://github.com/santhoopa/Hospital-Management-System/issues/15) in [santhoopa/Hospital-Management-System](https://github.com/santhoopa/Hospital-Management-System)
-4. 🎉 Merged PR [#2](https://github.com/manumanoj0010/Real-EState-Website/pull/2) in [manumanoj0010/Real-EState-Website](https://github.com/manumanoj0010/Real-EState-Website)
-5. 🎉 Merged PR [#3](https://github.com/manumanoj0010/Javascript-Applications/pull/3) in [manumanoj0010/Javascript-Applications](https://github.com/manumanoj0010/Javascript-Applications)
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
- <summary><b>💻Work Time</b></summary>
-<!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-111-blue)
-
-**🐱 My Github Data** 
-
-> 🏆 20 Contributions in the Year 2021
- > 
-> 📦 965.5 kB Used in Github's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 31 Public Repositories 
- > 
-> 🔑 9 Private Repositories  
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning    31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.54% 
-🌆 Daytime    175 commits    ████████████░░░░░░░░░░░░░   48.21% 
-🌃 Evening    98 commits     ██████░░░░░░░░░░░░░░░░░░░   27.0% 
-🌙 Night      59 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.25%
-
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday       52 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.33% 
-Tuesday      51 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.05% 
-Wednesday    51 commits     ███░░░░░░░░░░░░░░░░░░░░░░   14.05% 
-Thursday     71 commits     █████░░░░░░░░░░░░░░░░░░░░   19.56% 
-Friday       44 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.12% 
-Saturday     45 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.4% 
-Sunday       49 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.5%
-
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Python                   1 hr 21 mins        ██████████████████████░░░   90.27% 
-Markdown                 6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   6.76% 
-Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   1.62% 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.62% 
-PHP                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.61%
-
-🔥 Editors: 
-VS Code                  1 hr 30 mins        █████████████████████████   100.0%
-
-🐱‍💻 Projects: 
-Python_DSA               1 hr 25 mins        ███████████████████████░░   94.81% 
-Unknown Project          4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   4.46% 
-Website                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.73%
-
-💻 Operating System: 
-Windows                  1 hr 30 mins        █████████████████████████   100.0%
-
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   10 repos            ███████░░░░░░░░░░░░░░░░░░   31.25% 
-HTML                     7 repos             █████░░░░░░░░░░░░░░░░░░░░   21.88% 
-CSS                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.5% 
-PHP                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.38% 
-Dart                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   9.38%
-
-```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/manumanoj0010/manumanoj0010/main/charts/bar_graph.png) 
-
-
-<!--END_SECTION:waka-->
-
-#
-
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-
-</div>
