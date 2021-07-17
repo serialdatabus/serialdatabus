@@ -1,10 +1,9 @@
-## Hey 👋, I'm [Elizeu Carlos!](https://www.linkedin.com/in/elizeu-carlos-618941121/)
+## Hey 👋, I'm [Manoj Boddu!](http://manumanoj.me/)
 
 
 ![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/manumanoj0010/) [![Gmail Badge](https://img.shields.io/badge/Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:manumanoj0010@gmail.com)](mailto:manumanoj0010@gmail.com) [![Website Badge](https://img.shields.io/badge/-Website-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://manumanoj.me)](https://manumanoj.me) [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/manumanoj0010)](https://twitter.com/manumanoj0010) [![Instagram Badge](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/m.a.n.u.m.a.n.o.j/)](https://instagram.com/manumanoj.me) [![Facebook Badge](https://img.shields.io/badge/-Facebook-1877f2?style=flat&logo=facebook&logoColor=white&link=https://facebook.com/manumanoj0010)](https://facebook.com/manumanoj0010)
 
 ### Glad to see you here! &nbsp; <img src="https://komarev.com/ghpvc/?username=manumanoj0010&label=Profile%20views&color=0e75b6&style=flat" alt="manumanoj0010" /> ![GitHub followers](https://img.shields.io/github/followers/manumanoj0010) ![GitHub User's stars](https://img.shields.io/github/stars/manumanoj0010)
-
 
 I'm a final year student pursuing Bachelors's in Computer Science 🎓 from VIT University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. I'm currently into Web Development 🕸️ and Computer Vision 👀.
 
