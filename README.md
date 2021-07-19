@@ -10,7 +10,7 @@ I'm a Full Stack Web Developer living in Lisbon, experienced in building respons
 ### More about me:
 
 
-- 💻 &nbsp;I love exploring new tech stack and building cool stuffs.
+- 💻 &nbsp;I love exploring new tech stacks and building cool stuff.
 - 🤝 &nbsp;Open for collaborations in web development 🕸️
 - 📝 &nbsp;Checkout my [Resume](https://github.com/serialdatabus/serialdatabus/blob/main/resume/resume.pdf).
 - 💬 &nbsp;Ask me about anything tech related, I am happy to help.
