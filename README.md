@@ -57,6 +57,6 @@ I'm a Full Stack Web Developer living in Lisbon, experienced in building respons
   
   <a href="https://git-scm.com/" target="_blank"> <img src="images/git.png" alt="git" width="30" height="30"/> </a>  
     <a href="https://graphql.org/" target="_blank"> <img src="images/graphql.png" alt="graphql" width="30" height="30"/> </a>  
-    <a href="https://www.apollographql.com/" target="_blank"> <img src="images/apollo.svg" alt="apollo" width="30" height="30"/> </a>
+    <a href="https://www.apollographql.com/" target="_blank"> <img src="images/apollo.svg" alt="apollo" width="50" height="50"/> </a>
 
 </details>
